@@ -66,10 +66,10 @@ Open the file (`Food demad forecasting.ipynb`) and execute the cells sequentiall
 ## Model Performance & Results
 We tested multiple machine learning models for demand forecasting, and the results are as follows:
 
-- **Random Forest Regressor**: Lowest RMSLE value (best performance)
-- **Decision Tree Regressor**: Higher RMSLE compared to Random Forest
+- **Random Forest Regressor**: 64.45
+- **Decision Tree Regressor**: 81.06
 
-The **Random Forest Regressor** demonstrated superior accuracy in predicting food demand.
+The **Random Forest Regressor** demonstrated Lowest RMSLE value (best performance), demonstrates superior accuracy in predicting food demand.
 
 ---
 
